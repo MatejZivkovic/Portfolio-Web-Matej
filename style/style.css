@@ -113,9 +113,8 @@ p {
 
 .header-image {
   background-color: var(--header-nav-bg-color);
-  height: 100%;
-  width: 40%;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .header-company p {
