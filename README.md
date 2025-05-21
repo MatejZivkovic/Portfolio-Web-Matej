@@ -1,4 +1,4 @@
-# Portofolio-Web-matej
+# Portfolio-Web-matej
 
 # Design by
 
@@ -6,11 +6,11 @@
 
 # Link
 
-# Komt nog
+  https://portofolio-web-matej.vercel.app
 
 # About
 
-# Voor de laatste periode van Web voor leerjaar 1, heb ik als opdracht gekregen om een mooie (of average) portofolio website te maken en die ook online zetten.
+# Voor de laatste periode van Web voor leerjaar 1, heb ik als opdracht gekregen om een mooie (of average) portfolio website te maken en die ook online zetten.
 
 # Screenshot
 
