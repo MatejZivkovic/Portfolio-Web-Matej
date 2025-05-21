@@ -6,7 +6,7 @@
 
 # Link
 
-  portfolio-web-matej.vercel.app
+  https://portfolio-web-matej.vercel.app
 
 # About
 
