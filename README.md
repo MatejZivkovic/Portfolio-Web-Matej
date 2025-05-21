@@ -10,7 +10,7 @@
 
 # About
 
-# Voor de laatste periode van Web voor leerjaar 1, heb ik als opdracht gekregen om een mooie (of average) portofolio website te maken en die ook online zetten.
+# Voor de laatste periode van Web voor leerjaar 1, heb ik als opdracht gekregen om een mooie (of average) portfolio website te maken en die ook online zetten.
 
 # Screenshot
 
